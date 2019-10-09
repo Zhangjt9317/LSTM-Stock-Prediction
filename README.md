@@ -1,2 +1,1 @@
-# LSTM-Stock-Prediction
-Using LSTM to predict stock price using keras
+# stock-prediction-lstm-using-keras
